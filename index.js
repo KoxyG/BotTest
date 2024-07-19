@@ -48,7 +48,7 @@ bot.start(async (ctx) => {
                 parse_mode: 'Markdown',
                 reply_markup: {
                     inline_keyboard: [
-                        [{ text: "Play", web_app: "https://mile-nft.vercel.app/" }, { text: "Join community", callback_data: "description.jpg" }]
+                        [{ text: "Play", web_app: "https://mini-app-phi-plum.vercel.app/" }, { text: "Join community", callback_data: "description.jpg" }]
                     ]
                 }
             }
